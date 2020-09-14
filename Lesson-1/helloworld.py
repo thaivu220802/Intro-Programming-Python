@@ -1,3 +1,5 @@
+import sys
 import stdio
 
-stdio.writln('Hello World!')
+# Write 'Hello, World' to standard output.
+stdio.writeln('Hello World!')
